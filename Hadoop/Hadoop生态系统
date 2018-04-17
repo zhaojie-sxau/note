@@ -1,1 +1,2 @@
-
+Hadoop是一个开源框架，可以编写和运行分布式应用，处理大规模数据。
+Hadoop框架的核心是HDFS和MapReduce，其中HDFS是分布式文件系统，MapReduce是分布式数据处理模型和执行环境。
